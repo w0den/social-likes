@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
-    <head>
+	<head>
 		<meta charset="UTF-8"/>
-        <title>Social likes</title>
-    </head>
-    <body>
+		<title>Social likes</title>
+	</head>
+	<body>
 		<!-- Put where you want to show buttons -->
 		<div id="social-likes">
 			<a href="#facebook" id="social-likes-facebook"></a>
@@ -17,5 +17,5 @@
 
 		<!-- IMPORTANT! Include this script at bottom of page, before </body> -->
 		<script src="./js/core.js"></script>
-    </body>
+	</body>
 </html>
