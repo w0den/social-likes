@@ -8,3 +8,7 @@ By default when user wants to share your page, will be used full URL (ie, `http:
 
 ## How to show likes?
 See example in [./example.php](./example.php)
+
+
+## Demo?
+See http://jsbin.com/wudinudizo
