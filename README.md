@@ -11,4 +11,4 @@ See example in [./example.php](./example.php)
 
 
 ## Demo?
-See http://jsbin.com/wudinudizo (be aware, counter don't work here).
+See http://demo.condurache.net/social-likes/example.php
